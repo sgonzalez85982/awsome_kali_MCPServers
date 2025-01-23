@@ -1,0 +1,5 @@
+[project]
+name = "awsome-kali-mcpservers"
+version = "0.1.0"
+description = "awsome kali MCPServers is a set of MCP servers tailored for Kali Linux"
+requires-python = ">=3.10"
