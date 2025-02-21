@@ -5,3 +5,4 @@ description = "awsome kali MCPServers is a set of MCP servers tailored for Kali 
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
